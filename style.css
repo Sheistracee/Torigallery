@@ -56,7 +56,7 @@ a {
 .portfolio {
   display: flex;
   justify-content: center;
-  background-image: url("https://i.postimg.cc/gJY9vQyC/pexels-mccutcheon-1450034.jpg");
+  background-image: url("https://i.postimg.cc/kGqyf02w/pexels-mccutcheon-1450034.jpg");
   background-size: cover;
   padding: 100px;
   border: 30px solid #f2f2f2;
@@ -67,7 +67,7 @@ a {
 .contact {
   display: flex;
   justify-content: center;
-  background-image: url("https://i.postimg.cc/5t8158hC/pexels-ithalu-907485.jpg");
+  background-image: url("https://i.postimg.cc/jjRdqvnm/pexels-ithalu-907485.jpg");
   background-size: cover;
   padding: 100px;
   border: 30px solid #f2f2f2;
